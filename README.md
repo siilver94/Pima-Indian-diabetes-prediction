@@ -1,4 +1,4 @@
-# Pima Indians Diabetes Prediction Project
+# Pima Indians Diabetes Prediction
 
 <br/>
 
@@ -7,7 +7,9 @@ src = https://github.com/siilver94/Pima-Indian-diabetes-prediction/assets/578249
 
 
 ## 프로젝트 개요
-이 프로젝트는 캐글의 [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)를 사용하여, 기계 학습 모델을 통해 당뇨병 여부를 예측하는 것을 목표로 합니다. 이 데이터셋은 아리조나주에 사는 피마 인디언 여성들의 의료 기록을 기반으로 하며, 연령, 임신 횟수, 인슐린 수치 등의 여러 특성을 포함합니다. 이 프로젝트에서는 데이터 전처리, 탐색적 데이터 분석(EDA), 모델 선택 및 튜닝, 그리고 결과 해석의 전체적인 데이터 분석을 진행하였습니다.
+이 프로젝트는 캐글의 [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) 데이터셋을 사용하여, 기계 학습 모델을 통해 당뇨병 여부를 예측하는 것을 목표로 합니다.
+
+이 데이터셋은 아리조나주에 사는 피마 인디언 여성들의 의료 기록을 기반으로 하며, 연령, 임신 횟수, 인슐린 수치 등의 여러 특성을 포함합니다. 이 프로젝트에서는 데이터 전처리, 탐색적 데이터 분석(EDA), 모델 선택 및 튜닝, 그리고 결과 해석의 전체적인 데이터 분석을 진행하였습니다.
 
 <br/>
 
@@ -38,10 +40,10 @@ src = https://github.com/siilver94/Pima-Indian-diabetes-prediction/assets/578249
 <br/>
 
 ## 사용 기술
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+- `Python`
+- `Pandas`, `NumPy`
+- `Matplotlib`, `Seaborn`
+- `Scikit-learn`
 
 <br/>
 
